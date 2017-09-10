@@ -1,0 +1,6 @@
+c:\users\kirill lebedev\documents\visual studio 2015\Projects\testGetCRM\testGetCRM\bin\Debug\testGetCRM.exe.config
+c:\users\kirill lebedev\documents\visual studio 2015\Projects\testGetCRM\testGetCRM\bin\Debug\testGetCRM.exe
+c:\users\kirill lebedev\documents\visual studio 2015\Projects\testGetCRM\testGetCRM\bin\Debug\testGetCRM.pdb
+c:\users\kirill lebedev\documents\visual studio 2015\Projects\testGetCRM\testGetCRM\obj\Debug\testGetCRM.csprojResolveAssemblyReference.cache
+c:\users\kirill lebedev\documents\visual studio 2015\Projects\testGetCRM\testGetCRM\obj\Debug\testGetCRM.exe
+c:\users\kirill lebedev\documents\visual studio 2015\Projects\testGetCRM\testGetCRM\obj\Debug\testGetCRM.pdb
